@@ -7,12 +7,13 @@
 - **Sederhana dan Cepat:** Tidak perlu mendaftar atau menginstal aplikasi tambahan. Cukup buka browser dan mulai berbagi!
 - **Akses Multi-Perangkat:** Berfungsi di berbagai platform seperti Windows, macOS, Linux, Android, dan iOS.
 - **Keamanan:** File yang dikirimkan melalui NusaDrop hanya tersedia untuk perangkat yang terhubung ke jaringan yang sama, memastikan privasi dan keamanan.
+- [**coba NusaDrop**](https://nusadrop.my.id)
 
-## Donasi
+## Support
 
 Jika Anda merasa proyek ini bermanfaat dan ingin mendukung pengembangannya, Anda dapat berdonasi melalui link di bawah:
 
-[**Donasi untuk NusaDrop**](https://lynk.id/heikhatech/s/kVYploe)
+[**Support untuk NusaDrop**](https://lynk.id/heikhatech/s/kVYploe)
 
 ## Sumber Inspirasi
 
